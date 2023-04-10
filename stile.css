@@ -1,5 +1,5 @@
 body {
-    height: 857px;
+    height: 942px;
     background-color: #E8E9ED;
     border: 1px;
     border-style: solid;
@@ -168,14 +168,24 @@ pre {
 }
 
 pre.destra {
-    padding:10%;
+    padding: 10%;
 }
 
 img.social {
-    padding: 0;
-    margin: 0;
+    width: fit-content;
 }
 
 p.h {
     font-size: 11px;
+    margin: 10px;
+}
+
+p.d {
+    font-size: 11px;
+    margin: 10px;
+}
+
+p.i {
+    font-size: 11px;
+    margin: 10px;
 }
