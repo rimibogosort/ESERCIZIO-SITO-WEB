@@ -1,0 +1,181 @@
+body {
+    height: 857px;
+    background-color: #E8E9ED;
+    border: 1px;
+    border-style: solid;
+    margin: auto
+}
+
+.t1, .t2, .t3 {
+    letter-spacing: -1px;
+    font-size: 35px;
+    text-align: center;
+    font-weight: lighter;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.t1, .t3 {
+    color: #ED6F95;
+}
+
+.t2 {
+    font-size: 27px;
+}
+
+.icone {
+    float: right;
+    padding-right: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.lungo {
+    margin-right: -10px;
+    margin-left: -10px;
+    color: #000000;
+}
+
+.titolo {
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Days One', sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: medium;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    display: table;
+    clear: both;
+}
+
+.testo {
+    padding: 10px;
+    float: left;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 13px;
+}
+
+h4 {
+    width: 100%;
+    font-size: 90%;
+}
+
+.england {
+    max-width: 100%;
+    height: auto;
+    float: right;
+    padding: 10px;
+}
+
+.corto {
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.card {
+    float: left;
+    width: 33.330%;
+}
+
+.row2:after {
+    display: table;
+    clear: both;
+}
+
+img.hawaii {
+    padding: 10px;
+    width: 175px;
+}
+
+img.denmark {
+    padding: 10px;
+    width: 175px;
+}
+
+img.iceland {
+    padding: 10px;
+    width: 175px;
+}
+
+.dolce {
+    font-size: 13px;
+    color: #AEAEAE;
+    padding-left: 45px;
+}
+
+.salato {
+    font-size: 13px;
+    color: #AEAEAE;
+    padding-left: 45px;
+}
+
+.misto {
+    font-size: 13px;
+    color: #AEAEAE;
+    padding-left: 45px;
+}
+
+footer {
+    background-color: #DCDCDC;
+}
+
+.column3 {
+    background-color: #DCDCDC;
+    float: left;
+    width: 50%;
+    height: 150px;
+}
+
+.row3:after {
+    display: table;
+    clear: both;
+}
+
+.row3 {
+    background-color: #ED6F95;
+}
+
+footer {
+    background-color: #DCDCDC;
+}
+
+.marchio {
+    font-size: 25px;
+    padding-left: 50px;
+    font-weight: lighter;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+pre {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-right: -60px;
+}
+
+pre.destra {
+    padding:10%;
+}
+
+img.social {
+    padding: 0;
+    margin: 0;
+}
+
+p.h {
+    font-size: 11px;
+}
